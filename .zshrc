@@ -4,7 +4,11 @@
 # Path to your oh-my-zsh installation.
 export ZSH="/home/david/.oh-my-zsh"
 POWERLEVEL9K_MODE='nerdfont-complete'
-ZSH_THEME='powerlevel10k/powerlevel10k'
+ZSH_THEME='powerlevel9k/powerlevel9k'
+#Can use 
+#ZSH_THEME='powerlevel10k/powerlevel10k'
+#But it might break some icons
+
 
 # NEWLINE PROMPT
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
